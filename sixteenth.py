@@ -3,8 +3,8 @@ def printInfo(name, age=35):
     print("Name: ", name)
     print("Age ", age)
 
-printInfo(name="DD",age=50)
-printInfo(name="DD")
+printInfo(name="tushar",age=21)
+printInfo(name="tushar")
 
 
 # This demo is for keyword arguments
