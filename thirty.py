@@ -5,7 +5,7 @@ f.close()
 
 f=open("e:/evening.txt",'r')
 lines=f.readlines()
-#print(lines)
+print(lines)
 
 for line in lines:
     print(line,end='')
